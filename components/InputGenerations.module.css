@@ -1,0 +1,7 @@
+.panel {
+  border-style: solid;
+  margin: 100px;
+  padding: 20px;
+  overflow-y: scroll;
+  overflow-x: auto;
+}
